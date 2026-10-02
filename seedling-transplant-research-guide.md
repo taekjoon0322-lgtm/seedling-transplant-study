@@ -35,6 +35,22 @@
 
 출처: [팜에이트](https://farm8.co.kr/), [일신팜 운영 블로그](https://ilsinfarm.tistory.com/17), [에스팜](https://s-farm.kr/), [농업기술센터](https://www.gwangju.go.kr/agri/contentsView.do?pageId=agri72)
 
+### 기존 모판 사진 및 관찰 근거
+
+원 저장소의 **2026-09-23 시험용 모종 기록**에 포함된 사진이다. 파일명·문서 날짜 기준이며 실제 촬영일은 별도 확인이 필요하다. 현재 모판 사진과 구분해 사용한다.
+
+| 가장자리 빈칸 근접 사진 | 모판 위쪽 전체 사진 |
+|---|---|
+| ![기존 모판 가장자리 빈칸 근접 사진](https://raw.githubusercontent.com/Urindo-do/physical-ai-study/main/assignments/seedling-transplant/images/2026-09-23-trial-tray-closeup.png) | ![기존 모판 위쪽 전체 사진](https://raw.githubusercontent.com/Urindo-do/physical-ai-study/main/assignments/seedling-transplant/images/2026-09-23-trial-tray-top.png) |
+
+- **라벨 확인:** 사용자가 제공한 확대 사진에서 ‘바타 → 로메인 → 버·헤’로 읽힌다. 마지막 표기는 버터헤드의 약칭으로 보이며, 앞서 전달받은 종류명과 부합한다. 화살표는 품종 구역 순서를 나타내는 자료로 사용하며, 세부 품종명이나 파종일은 라벨에서 확인되지 않는다.
+- **기존 기록:** 빈칸이 가장자리에 몰려 있다고 기술되어 있다. 담당자 답변으로는 모든 칸에 씨앗을 넣었으나 발아가 100% 되지 않았다고 기록되어 있다.
+- **현재 관찰:** 김택준이 육안으로 가장자리 빈칸이 더 많다고 확인했다. 현재 약 80%는 모종 점유율의 추정치이며 사진에서 계산한 발아율이 아니다.
+- **해석 한계:** 기존 기록과 현재 관찰은 가장자리 저조 현상을 조사할 근거지만, 사진만으로 건조·온도·급수 불균일 등의 원인이나 출현 후 고사 여부를 확정할 수 없다. 동일 모판인지도 기록과 대조한다.
+- **활용:** 자문 회신 시 설명 자료와 랩 미팅의 과거 상태 자료로 활용한다. 현재 상태·변화·위치별 점유율은 최근 사진과 실제 칸 수 집계로 보완한다.
+
+출처: [시험용 모종 기록 §3](https://github.com/Urindo-do/physical-ai-study/blob/main/assignments/seedling-transplant/test-seedlings.md#3-지금-판의-모습). 원본: [근접 사진](https://github.com/Urindo-do/physical-ai-study/blob/main/assignments/seedling-transplant/images/2026-09-23-trial-tray-closeup.png), [위쪽 전체 사진](https://github.com/Urindo-do/physical-ai-study/blob/main/assignments/seedling-transplant/images/2026-09-23-trial-tray-top.png), [판 받침·조명 사진](https://github.com/Urindo-do/physical-ai-study/blob/main/assignments/seedling-transplant/images/2026-09-23-trial-tray-overview.png), [라벨 사진](https://github.com/Urindo-do/physical-ai-study/blob/main/assignments/seedling-transplant/images/2026-09-23-trial-tray-label.png).
+
 ### 랩 미팅 전 준비할 자료
 
 | 자료 | 기록 방법 | 목적 |
